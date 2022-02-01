@@ -5,6 +5,12 @@ Clone this repo:
 https://github.com/AlexString/electron-vite-boilerplate.git
 ```
 
+Use it:
+```bash
+yarn start
+yarn install
+```
+
 ## Description
 This boilerplate was made following this site about 
 [How to create an Electron Application with Vite](https://dev.to/olyno/how-to-create-an-electron-application-with-vite-im) so credits got to the user **Olyno** and thanks. 
