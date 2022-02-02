@@ -5,10 +5,14 @@ Clone this repo:
 https://github.com/AlexString/electron-vite-boilerplate.git
 ```
 
-Use it:
+Install dependencies:
 ```bash
-yarn start
 yarn install
+```
+
+Run app:
+```bash
+yarn run dev
 ```
 
 ## Description
