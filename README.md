@@ -44,7 +44,7 @@ In `package.json`
 
 ```json
 "scripts": {
-    "start": "npm run build && npm run electron:start",
+    "start": "npm run build && npm run dev",
     "dev": "concurrently -k 'vite' 'npm run electron:dev'",
     "build": "vite build",
     "preview": "vite preview",
